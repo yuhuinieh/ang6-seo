@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template" target-language="en-US">
+    <body>
+      <trans-unit id="de0dac7188ab04270cfc534db751465ca525b05e" datatype="html">
+        <source>Welcome to <x id="INTERPOLATION" equiv-text="{{ title }}"/>!</source><target state="new">Welcome to <x id="INTERPOLATION" equiv-text="{{ title }}"/>!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="dcafbcb0313e0aaabd5d6d0d3308f7621e9776f4" datatype="html">
+        <source>This is secondary page!</source><target state="new">This is secondary page!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/doris/doris.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6aee171e30095fcacc6c6e47400d4931ad68a307" datatype="html">
+        <source>Index page Here!</source><target state="new">Index page Here!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/index/index.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
